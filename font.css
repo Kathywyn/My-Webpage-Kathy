@@ -1,0 +1,42 @@
+.content{
+	color: #2d4160; 
+	width: 400px; 
+	background-color: #72b8ff; 
+	margin: 10px 20px 20px 5px; 
+	padding: 10px 10px 20px 10px; 
+	width: 75%; 
+	height: 160px; 
+	margin: 0 auto;
+}
+
+.subcontent{
+	color: #5cd5f9; 
+	width: 400px; 
+	background-color: #365b96; 
+	margin: 10px 20px 20px 5px; 
+	padding: 10px 10px 20px 10px; 
+	width: 75%; 
+	height: 20px; 
+	margin: 0 auto;
+
+}
+
+.maincontent{
+	color: #2d4160; 
+	width: 400px; 
+	background-color: #72b8ff; 
+	margin: 10px 20px 20px 5px; 
+	padding: 10px 10px 20px 10px; 
+	width: 75%; 
+	height: 330px; 
+	margin: 0 auto;
+}
+
+img{
+	display: block; 
+	width: 170px; 
+	height: 150px; 
+	margin: 0 auto; 
+}
+
+

@@ -1,0 +1,11 @@
+img{
+	display: block; 
+	width: 400px; 
+	height: 400px; 
+	margin: 0 auto; 
+}
+.clear{
+	clear: both;
+}
+
+
